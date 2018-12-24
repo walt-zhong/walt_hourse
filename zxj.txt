@@ -1,2 +1,3 @@
 i have a dream
 i really want achieve it
+git has a mutable index called stage
