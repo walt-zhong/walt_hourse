@@ -2,3 +2,5 @@ i have a dream
 i really want achieve it
 git has a mutable index called stage
 i am lion
+
+hahahh
